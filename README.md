@@ -4,7 +4,6 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ### [角色动画制作与绑定](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/03.AnmBind.md)
-**该章节包含以下问题**
 * 如何定位模型并创建动画蓝图？
 * 如何将动画蓝图绑定到角色身上？
 * 制作动画蓝图
