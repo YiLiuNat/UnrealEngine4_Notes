@@ -10,6 +10,9 @@
 * 移动速度动画制作
 * 跳跃动画制作
 
-### [制作动画蒙太奇](https://github.com/YiLiuNat/UnrealEngine4_Notes)
+### [制作动画蒙太奇](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/04.AnmMontage.md)
 * 为何使用蒙太奇？
 * 制作一个角色攻击动画
+
+### [一些小技巧](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/00.Others.md)
+* 在蓝图中写随机事件
