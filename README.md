@@ -14,5 +14,13 @@
 * 为何使用蒙太奇？
 * 制作一个角色攻击动画
 
+### [动画的声音，特效，与三连击](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/05.SoundsCombo.md)
+* 给动画创建声音
+* 给动画添加特效
+* 贴近骨骼的特效
+* 三连攻击模式的写法
+* 完整攻击一次再开始下一次的写法
+
+
 ### [一些小技巧](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/00.Others.md)
 * 在蓝图中写随机事件
