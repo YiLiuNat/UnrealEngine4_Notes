@@ -1,7 +1,6 @@
 # Unreal Engine 4 虚幻の硬核笔记
 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+这是一份虚幻4的学习笔记 By. Nat Liu
 
 ### [角色动画制作与绑定](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/03.AnmBind.md)
 * 如何定位模型并创建动画蓝图？
@@ -20,6 +19,19 @@
 * 贴近骨骼的特效
 * 三连攻击模式的写法
 * 完整攻击一次再开始下一次的写法
+
+### [小怪碰撞判定](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/06.MonstersCollision.md)
+* 创建一个小怪模型
+* 创建打击判定
+* 创建伤害函数
+* 做一个血条
+
+### [小怪AI](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/07.MonstersAI.md)
+* 创建小怪AI
+* 制作小怪前后左右走
+* 编写AI
+* 将行为树与小怪绑定
+
 
 
 ### [一些小技巧](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/00.Others.md)
