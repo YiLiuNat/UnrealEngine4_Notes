@@ -1,6 +1,6 @@
 # Unreal Engine 4 虚幻の硬核笔记
 
-这是一份虚幻4的学习笔记 By. Nat Liu
+*这是一份虚幻4的学习笔记 By. Nat Liu*
 
 ### [角色动画制作与绑定](https://github.com/YiLiuNat/UnrealEngine4_Notes/blob/master/03.AnmBind.md)
 * 如何定位模型并创建动画蓝图？
